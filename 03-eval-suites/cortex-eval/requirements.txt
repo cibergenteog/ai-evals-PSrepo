@@ -1,0 +1,3 @@
+# Cortex Eval Lab, runnable LLM-as-a-judge (no vendor console needed)
+openai>=1.51         # the model client for the Layer 3 judge
+python-dotenv>=1.0   # loads .env so OPENAI_API_KEY is picked up
